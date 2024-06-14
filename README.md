@@ -1,3 +1,6 @@
+**Link to Project description
+https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html**
+
 **Fetch Assessment**
 
 **Tools and Technologies Used**:
